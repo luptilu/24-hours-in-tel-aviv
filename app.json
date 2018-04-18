@@ -1,0 +1,23 @@
+{
+  "name": "RNMapboxGLExample",
+  "displayName": "RNMapboxGLExample",
+  "expo": {
+    "name": "telaviv_expo",
+    "description": "This project is really great.",
+    "slug": "telaviv_expo",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
