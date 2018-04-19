@@ -9,7 +9,7 @@ It is built with React Native and Mapbox.
 
 Make sure you are in the app directory
 ```
-cd 24-hours-in-tel=aviv-master
+cd 24-hours-in-tel-aviv-master
 ```
 
 ## Start React Native Packager
